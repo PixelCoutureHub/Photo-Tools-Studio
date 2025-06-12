@@ -79,7 +79,7 @@ const features = [
 ]
 
 const stats = [
-  { icon: Users, value: "50K+", label: "Happy Users" },
+  { icon: Users, value: "null", label: "Happy Users" },
   { icon: Star, value: "4.9", label: "Rating" },
   { icon: Award, value: "100%", label: "Free" },
 ]
