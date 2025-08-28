@@ -4,7 +4,9 @@ Photo-Tools-Studio is an open-source project built primarily with TypeScript, de
 
 **Live Demo:**  
 [photo-tools-studio.vercel.app](https://photo-tools-studio.vercel.app)
-[Image](/Photo-Tools-Studio.jpeg)
+
+
+![Photo Tools Studio](Photo-Tools-Studio.jpeg)
 
 ---
 
